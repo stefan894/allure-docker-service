@@ -11,8 +11,8 @@ on:
   pull_request:
 
 env:
-  DOCKER_IMAGE: frankescobar/allure-docker-service
-  ALLURE_RELEASE: 2.27.0
+  DOCKER_IMAGE: stefan894/allure-docker-service
+  ALLURE_RELEASE: 2.32.0
   QEMU_VERSION: v4.0.0
   DOCKER_CLI_EXPERIMENTAL: enabled
 
